@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Servicio de mascotas</string>
+    <string-array name="lista_genero">
+        <item>Macho</item>
+        <item>Hembra</item>
+    </string-array>
+
+    <string-array name="lista_raza">
+        <item>Mini toy</item>
+        <item>Pequenias</item>
+        <item>Medianas</item>
+        <item>Grandes</item>
+        <item>Gigantes</item>
+    </string-array>
+
+    <string-array name="lista_tipo">
+        <item>IMC canino</item>
+        <item>Grasa Corporal Macho</item>
+        <item>Grasa Corporal Hembra</item>
+    </string-array>
+
+</resources>
